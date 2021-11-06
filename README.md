@@ -4,6 +4,8 @@ This project to exchange currency (EUR, USD, GBP)
 
 Created by topstar0527
 
+[DEMO](https://currency-change-with-wallet.vercel.app/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## To run the project
 
